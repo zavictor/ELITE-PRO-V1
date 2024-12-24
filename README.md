@@ -32,6 +32,7 @@
 
 ## FOR PANEL DEPLOYMENT
 
+- Download zip file🗃️
 - Click on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
 - Create a server
 - Upload zip file 🗃️ 
@@ -53,7 +54,7 @@ pkg install wget
 pkg install imagemagick -y
 pkg install yarn
 termux-setup-storage
-cd /storage/emulated/0/Download/Elite-Pro-V2-main
+cd /storage/emulated/0/Download/ELITEPRO-master
 yarn install
 npm start
 ```
@@ -61,7 +62,7 @@ npm start
 
 ## FOR STARTING TERMUX AGAIN
 ```
-cd /storage/emulated/0/Download/Elite-Pro-V2-main
+cd /storage/emulated/0/Download/ELITEPRO-master
 npm start
 ```
 ---
