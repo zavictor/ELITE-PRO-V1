@@ -2,7 +2,7 @@
   <a href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ">
     <img alt=Support weight="10" src="https://telegra.ph/file/a8265ce43fbfcc43bffeb.jpg"> 
     </p>
-<h1 align="center">ELITE-PRO-V2</h1>
+<h1 align="center">ELITE-PRO</h1>
 <p align="center"> 
     </p>
 <p align="center">
@@ -17,15 +17,16 @@
   </a>
 </p>
       
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+V2+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
    
  ---
 
 ## DEPLOYMENT METHODS
 
-- Click on **[FORK](https://github.com/elite-md/Elite-Pro-V2/fork)**
-- Edit settings.js to your preference 
-- Download zip file 🗃️
+- Click on **[FORK](https://github.com/elite-md/ELITEPRO/fork)**
+- Click here to get **[SESSION_ID](https://elitepro-paring-website.onrender.com)**
+- Uploading session_id (Creds.json) in session folder.
+- Edit settings.js to your preference
 
 ---
 
