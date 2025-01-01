@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ">
-    <img alt=Support weight="10" src="https://i.ibb.co/hy6x7rX/d7f81e736d4b2664484ee7b56393fd4f.jpg"> 
+    <img alt=Support weight="10" src="https://i.ibb.co/khjYsbs/20241220-065009.jpg"> 
     </p>
 <h1 align="center">ELITE-PRO</h1>
 <p align="center"> 
