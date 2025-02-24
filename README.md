@@ -55,7 +55,7 @@ pkg install wget
 pkg install imagemagick -y
 pkg install yarn
 termux-setup-storage
-cd /storage/emulated/0/Download/ELITEPRO-master
+cd /storage/emulated/0/Download/ELITEPRO-main
 yarn install
 npm start
 ```
@@ -63,7 +63,7 @@ npm start
 
 ## FOR STARTING TERMUX AGAIN
 ```
-cd /storage/emulated/0/Download/ELITEPRO-master
+cd /storage/emulated/0/Download/ELITEPRO-main
 npm start
 ```
 ---
