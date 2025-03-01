@@ -7,7 +7,6 @@
     "directories": {
         "lib": "lib",
         "database": "database",
-        "database": "database",
         "session": "session",
         "media": "media"
     },
