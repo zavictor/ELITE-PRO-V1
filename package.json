@@ -1,5 +1,5 @@
 {
-    "name": "ElitePro",
+    "name": "Elite-Pro-V1",
     "version": "5.0.0",
     "description": "A WhatsApp bot with rich features.",
     "main": "main.js",
@@ -46,6 +46,7 @@
         "translate-google-api": "^1.0.4",
         "youtube-yts": "^2.0.0",
         "ytdl-core": "^4.11.5",
-        "youtubedl-core": "^4.11.5"
+        "youtubedl-core": "^4.11.5",
+        "yt-search": "^2.10.4"
     }
 }

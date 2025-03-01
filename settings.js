@@ -12,7 +12,7 @@ global.location = "Nigeria, Port Harcourt"
 
 global.ownernumber = '2348109263390'  //creator number
 global.ownername = 'ElitePro' //owner name
-global.botname = 'ELITE-PRO' //name of the bot
+global.botname = 'ELITE-PRO-V1' //name of the bot
 
 
 //custom prefix
@@ -35,6 +35,8 @@ global.autoswview = true //auto view status/story
 global.packname = 'Sticker By'
 global.author = 'Elite-Pro\n\nContact: +2348109263390'
 
+//set your menu picture
+global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg'
 
 
 
