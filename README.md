@@ -17,7 +17,7 @@
   </a>
 </p>
       
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+V1+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
    
  ---
 
@@ -37,7 +37,12 @@
 - Create a server
 - Upload zip file 🗃️ 
 - Start server
-- Click here to deploy on **[Render](https://render.com)**
+---
+
+## OTHER DEPLOYMENT PLATFORMS
+- **[Render](https://render.com)**
+- **[Katabump](https://dashboard.katabump.com/auth/login)**
+- **[Optiklink](https://optiklink.com/)**
 
 ---
 
