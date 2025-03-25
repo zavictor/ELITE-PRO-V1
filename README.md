@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ">
+  <a href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2">
     <img alt=Support weight="10" src="https://i.ibb.co/khjYsbs/20241220-065009.jpg"> 
     </p>
 <h1 align="center">ELITE-PRO-V1</h1>
 <p align="center"> 
     </p>
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a align="center">
   <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
@@ -68,7 +68,7 @@ npm start
 
 ## FOR STARTING TERMUX AGAIN
 ```
-cd /storage/emulated/0/Download/ELITE-PRO-V1
+cd /storage/emulated/0/Download/ELITE-PRO-V1-main
 npm start
 ```
 ---
