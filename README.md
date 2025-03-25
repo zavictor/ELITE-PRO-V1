@@ -2,7 +2,7 @@
   <a href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ">
     <img alt=Support weight="10" src="https://i.ibb.co/khjYsbs/20241220-065009.jpg"> 
     </p>
-<h1 align="center">ELITE-PRO</h1>
+<h1 align="center">ELITE-PRO-V1</h1>
 <p align="center"> 
     </p>
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## DEPLOYMENT METHODS
 
-- Click on **[FORK](https://github.com/elite-md/ELITEPRO/fork)**
+- Click on **[FORK](https://github.com/elite-md/ELITE-PRO-V1/fork)**
 - Click here to get **[SESSION_ID](https://elitepro-sessions.onrender.com)**
 - Uploading session_id (Creds.json) in session folder.
 - Edit settings.js to your preference
@@ -55,7 +55,7 @@ pkg install wget
 pkg install imagemagick -y
 pkg install yarn
 termux-setup-storage
-cd /storage/emulated/0/Download/ELITEPRO-main
+cd /storage/emulated/0/Download/ELITE-PRO-V1-main
 yarn install
 npm start
 ```
@@ -63,7 +63,7 @@ npm start
 
 ## FOR STARTING TERMUX AGAIN
 ```
-cd /storage/emulated/0/Download/ELITEPRO-main
+cd /storage/emulated/0/Download/ELITE-PRO-V1
 npm start
 ```
 ---
@@ -78,7 +78,7 @@ Paste this after the installation
 
 <p align="Left">
     <a align="center">
-  <a aria-label="WEBSITE" href="https://elite-production.vercel.app" target="_blank">
+  <a aria-label="WEBSITE" href="https://elitepro-website.vercel.app/" target="_blank">
     <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
 </a>
 <a aria-label="OTHER REPO" href="https://github.com/elite-md/Elite-Pro-V2" target="_blank">
