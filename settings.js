@@ -29,7 +29,7 @@ global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
-
+global.welcome = true // or false to disable
 
 //sticker details
 global.packname = 'Sticker By'
