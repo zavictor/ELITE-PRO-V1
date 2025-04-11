@@ -23,6 +23,7 @@ global.prefa = ['','!','.','#','&']
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
+global.antilink = false // default off
 
 
 global.autoread = false //auto read messages
