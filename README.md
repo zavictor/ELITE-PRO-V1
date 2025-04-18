@@ -32,7 +32,7 @@
 
 ## FOR PANEL DEPLOYMENT
 
-- Download zip file🗃️
+- Click on **[DOWNLOAD](https://eliteproverified.vercel.app/)** to get zip file🗃.
 - Click on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
 - Create a server
 - Upload zip file 🗃️ 
