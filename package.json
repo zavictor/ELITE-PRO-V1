@@ -1,6 +1,6 @@
 {
   "name": "ELITE-PRO-V1",
-  "version": "5.0.0",
+  "version": "1.0.5",
   "description": "A WhatsApp bot with rich features.",
   "main": "main.js",
   "type": "commonjs",
@@ -16,7 +16,7 @@
   "author": "Chinedu-MD",
   "license": "MIT",
   "dependencies": {
-    "baileys": "^6.7.16",
+    "baileys": "npm:baileys-mod@^6.8.2",
     "@adiwajshing/keyed-db": "^0.2.4",
     "express": "^4.18.2",
     "@hapi/boom": "^10.0.1",
