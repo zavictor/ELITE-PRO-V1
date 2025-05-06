@@ -23,7 +23,7 @@
 
 ## DEPLOYMENT METHODS
 
-- Click on **[FORK](https://github.com/elite-md/ELITE-PRO-V1/fork)**
+- Click on **[FORK](https://github.com/EliteProTech/ELITE-PRO-V1/fork)**
 - Click here to get **[SESSION_ID](https://elitepro-session-id.onrender.com/)**
 - Uploading session_id (Creds.json) in session folder.
 - Edit settings.js to your preference
@@ -86,7 +86,7 @@ Paste this after the installation
   <a aria-label="WEBSITE" href="https://elitepro-website.vercel.app/" target="_blank">
     <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
 </a>
-<a aria-label="OTHER REPO" href="https://github.com/elite-md/Elite-Pro-V2" target="_blank">
+<a aria-label="OTHER REPO" href="https://github.com/EliteProTech/Elite-Pro-V2" target="_blank">
     <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
