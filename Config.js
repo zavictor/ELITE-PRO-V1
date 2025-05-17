@@ -3,6 +3,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 // Contact details
+global.session = process.env.SESSION_ID || "";
 global.ownernomer = process.env.OWNER_NOMER || "2348109263390";
 global.ytname = process.env.YT_NAME || "YT: @EliteProTech";
 global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
@@ -25,6 +26,7 @@ global.anti92 = process.env.ANTI_92 === 'true';
 global.autoswview = process.env.AUTO_SW_VIEW !== 'false'; // default true
 global.welcome = process.env.WELCOME !== 'false'; // default true
 global.autoreact = process.env.AUTO_REACT === 'true';
+global.autolikestatus = process.env.AUTO_LIKE_STATUS === 'true';
 
 // Thumbnail profile picture
 global.elitepropp = process.env.ELITE_PRO_PP || 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg';
