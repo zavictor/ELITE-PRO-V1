@@ -1,8 +1,20 @@
+```
+DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
+```
+---
+
+> **CURRENT BOT VERSION ➜ `1.0.9 ⚡`**
+---
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=HEY%20DEAR%20WELCOME;TOO%20ELITE-PRO-V1%20BOT%20REPO;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20CYRILIX-XMD" alt="Typing SVG" />
+</a>
+
+
 <p align="center">
   <a href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2">
-    <img alt=Support weight="10" src="https://i.ibb.co/khjYsbs/20241220-065009.jpg"> 
+    <img alt=Support weight="10" src="https://raw.githubusercontent.com/Cyrilix-XMD/CYRILIX-STORE/main/img-url/20250604_163513.jpg"> 
     </p>
-<h1 align="center">ELITE-PRO-V1</h1>
 <p align="center"> 
     </p>
 <p align="center">
@@ -15,31 +27,45 @@
 <a aria-label="Chat me" href="https://t.me/elitepro_md" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-      
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+V1+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
+</p>  
    
  ---
+## FIRST FORK THE REPOSITORY
+` CLICK THE FORK BUTTON BELOW `
+
+<a href="https://github.com/EliteProTech/ELITE-PRO-V1/fork"><img title="ELITE-PRO-V1" src="https://img.shields.io/badge/FORK-BOT%20REPO-h?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  
+## GET SESSION ID BELOW
+> **1. PAIRING WEBSITE**
+
+<a href='https://elitepro-session-id1.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+> **2. PAIRING WEBSITE**
+
+<a href='https://elitepro-session-id2.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br>
 
 ## DEPLOYMENT METHODS
-
-- Click on **[FORK](https://github.com/EliteProTech/ELITE-PRO-V1/fork)**
-- Click here to get **[SESSION_ID 1](https://elitepro-session-id1.onrender.com) OR [SESSION-ID 2](https://elitepro-session-id2.onrender.com/)**
-- Uploading session_id (Creds.json) in session folder.
+- Uploading session_id (creds.json) in session folder.
 - Edit Config.js or .env to your Choice.
 
 ---
 
 ## FOR PANEL DEPLOYMENT
-
 - Click on **[DOWNLOAD](https://eliteproverified.vercel.app/)** to get zip file🗃.
-- Click on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
-- Create a server
-- Upload zip file 🗃️ 
+- Create a server on your panel
+- Upload zip file 🗃️
+- Unzip it and others
 - Start server
 ---
 
 ## OTHER DEPLOYMENT PLATFORMS
+- **[BOT-HOSTING.NET](https://bot-hosting.net/)**
 - **[Render](https://render.com)**
 - **[Katabump](https://dashboard.katabump.com/auth/login)**
 - **[Optiklink](https://optiklink.com/)**
@@ -90,11 +116,6 @@ Paste this after the installation
     <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-  ## DESCRIPTION
-I'm Elite-Pro a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any of the deployment site. 😜
 
  --- 
 - Star ⭐ repo if you like this bot.
