@@ -38,14 +38,14 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ## GET SESSION ID BELOW
 > **1. PAIRING WEBSITE**
 
-<a href='https://elitepro-session-id1.onrender.com' target="_blank">
+<a href='https://elitepro-session-id-1.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2. PAIRING WEBSITE**
 
-<a href='https://elitepro-session-id2.onrender.com' target="_blank">
+<a href='https://elitepro-session-id-2.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br>
