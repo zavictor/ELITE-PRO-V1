@@ -36,7 +36,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 <a href="https://github.com/EliteProTech/ELITE-PRO-V1/fork"><img title="ELITE-PRO-V1" src="https://img.shields.io/badge/FORK-BOT%20REPO-h?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ## GET SESSION ID BELOW
-> **FROM PAIRING WEBSITE**
+> **FROM PAIRING WEB**
 
 <a href='https://session-id-website.vercel.app/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
