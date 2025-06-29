@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ELITE-PRO-V1 BOT | Advanced WhatsApp Automation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="The most advanced WhatsApp automation solution by EliteProEmpire">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #00c853;
+      --primary-dark: #00a344;
+      --secondary: #1a1a2e;
+      --accent: #00bfa5;
+      --text: #ffffff;
+      --text-light: #dddddd;
+      --bg-dark: #000000;
+      --bg-gradient: linear-gradient(135deg, #000000, #1a1a2e);
+      --card-bg: rgba(0, 0, 0, 0.7);
+      --card-border: rgba(255, 255, 255, 0.1);
+      --feature-bg: rgba(255, 255, 255, 0.1);
+    }
+    
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: var(--bg-gradient);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      line-height: 1.6;
+    }
+    
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      flex-grow: 1;
+    }
+    
+    .hero {
+      width: 100%;
+      max-width: 900px;
+      padding: 3rem 2.5rem;
+      background: var(--card-bg);
+      border-radius: 20px;
+      box-shadow: 0 15px 50px rgba(0, 0, 0, 0.5);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--card-border);
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+      z-index: 1;
+    }
+    
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(circle, rgba(0, 200, 83, 0.1) 0%, transparent 70%);
+      z-index: -1;
+      animation: rotate 20s linear infinite;
+    }
+    
+    @keyframes rotate {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    
+    h1 {
+      font-size: clamp(2.5rem, 5vw, 4rem);
+      font-weight: 700;
+      margin-bottom: 1rem;
+      background: linear-gradient(to right, var(--primary), var(--accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      line-height: 1.2;
+    }
+    
+    .tagline {
+      font-size: clamp(1rem, 2vw, 1.2rem);
+      color: var(--text-light);
+      margin-bottom: 2.5rem;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    .buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.8rem 2rem;
+      font-size: 1rem;
+      font-weight: 500;
+      text-decoration: none;
+      border-radius: 50px;
+      transition: all 0.3s ease;
+      min-width: 180px;
+      border: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+      z-index: 1;
+    }
+    
+    .btn-primary {
+      background: linear-gradient(45deg, var(--primary), var(--accent));
+      color: white;
+      box-shadow: 0 4px 20px rgba(0, 200, 83, 0.3);
+    }
+    
+    .btn-primary:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 25px rgba(0, 200, 83, 0.4);
+    }
+    
+    .btn-primary::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(45deg, var(--primary-dark), var(--accent));
+      opacity: 0;
+      transition: opacity 0.3s;
+      z-index: -1;
+    }
+    
+    .btn-primary:hover::after {
+      opacity: 1;
+    }
+    
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text);
+      backdrop-filter: blur(5px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.1);
+      transform: translateY(-3px);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+    }
+    
+    .btn-icon {
+      margin-right: 0.5rem;
+      font-size: 1.2rem;
+    }
+    
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1rem;
+      width: 100%;
+      max-width: 700px;
+      margin: 2rem 0;
+    }
+    
+    .feature {
+      background: var(--feature-bg);
+      padding: 1.5rem 1rem;
+      border-radius: 12px;
+      text-align: center;
+      transition: transform 0.3s;
+      backdrop-filter: blur(5px);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+    }
+    
+    .feature:hover {
+      transform: translateY(-5px);
+      background: rgba(0, 200, 83, 0.1);
+    }
+    
+    .feature-icon {
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+      display: inline-block;
+    }
+    
+    .feature-text {
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+    
+    footer {
+      margin-top: 3rem;
+      text-align: center;
+      font-size: 0.9rem;
+      color: var(--text-light);
+      padding: 1rem;
+      width: 100%;
+    }
+    
+    .version {
+      display: inline-block;
+      background: rgba(0, 200, 83, 0.2);
+      padding: 0.2rem 0.8rem;
+      border-radius: 20px;
+      margin-left: 0.5rem;
+      font-size: 0.8rem;
+    }
+    
+    @media (max-width: 768px) {
+      .hero {
+        padding: 2rem 1.5rem;
+      }
+      
+      .buttons {
+        flex-direction: column;
+        width: 100%;
+      }
+      
+      .btn {
+        width: 100%;
+      }
+      
+      .features {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    
+    /* Animation classes */
+    .fade-in {
+      animation: fadeIn 1s ease-in-out;
+    }
+    
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    .delay-1 { animation-delay: 0.2s; }
+    .delay-2 { animation-delay: 0.4s; }
+    .delay-3 { animation-delay: 0.6s; }
+    .delay-4 { animation-delay: 0.8s; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="hero">
+      <h1 class="fade-in">ELITE-PRO-V1 BOT</h1>
+      <p class="tagline fade-in delay-1">Revolutionary WhatsApp automation with enterprise-grade features and unparalleled performance</p>
+      
+      <div class="buttons">
+        <a href="https://elitepro-website.vercel.app/" target="_blank" class="btn btn-primary fade-in delay-1">
+          <span class="btn-icon">🌐</span> Official Website
+        </a>
+        <a href="https://elitepro-repo.vercel.app/" target="_blank" class="btn btn-secondary fade-in delay-2">
+          <span class="btn-icon">💻</span> GitHub Repo
+        </a>
+        <a href="https://api-eliteproempire.vercel.app/" target="_blank" class="btn btn-secondary fade-in delay-3">
+          <span class="btn-icon">⚙️</span> API Docs
+        </a>
+      </div>
+      
+      <div class="features">
+        <div class="feature fade-in delay-2">
+          <div class="feature-icon">🚀</div>
+          <div class="feature-text">Lightning Fast</div>
+        </div>
+        <div class="feature fade-in delay-3">
+          <div class="feature-icon">🔒</div>
+          <div class="feature-text">Military-grade Security</div>
+        </div>
+        <div class="feature fade-in delay-3">
+          <div class="feature-icon">🤖</div>
+          <div class="feature-text">Smart Automation</div>
+        </div>
+        <div class="feature fade-in delay-4">
+          <div class="feature-icon">📊</div>
+          <div class="feature-text">Advanced Analytics</div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="fade-in delay-4">
+      &copy; 2025 ELITEPRO EMPIRE. All rights reserved. <span class="version">v1.0.0</span>
+    </footer>
+  </div>
+</body>
+</html>
